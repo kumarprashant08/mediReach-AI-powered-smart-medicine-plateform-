@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💊 MediReach: AI-Powered Medicine Information, Availability & Access Platform
 
 MediReach is a full-stack, production-grade healthcare application built for live hackathon and Smart India Hackathon (SIH) demonstrations. It connects **Patients**, **Pharmacies**, and **AI Intelligence** to solve medicine search friction, stock opacity, stale inventory, and shortage risks.
@@ -81,3 +82,7 @@ Patient pharmacy discovery includes **Safe Route**. MediReach reads the patient'
 - Patient: `patient@medireach.demo` / `demo1234`
 - Pharmacy: `pharmacy@medireach.demo` / `demo1234`
 - Admin: `admin@medireach.demo` / `demo1234`
+=======
+# mediReach-AI-powered-smart-medicine-plateform-
+MediReach is a healthcare platform that helps users easily find medical services, connect with healthcare providers, and access essential health information in one place.
+>>>>>>> 557b74e1ebef65e38742dcc807342b6d72799b79
